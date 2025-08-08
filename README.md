@@ -40,3 +40,6 @@ If all squares are filled with no winner, the game declares a draw.
 
 Players can click “Reset” to start a new game.
 
+## Live Demo  
+You can view the live prototype here: [Tic-Tac-Toe Prototype](https://shikha144.github.io/Tic-Tac-Toe/)
+
